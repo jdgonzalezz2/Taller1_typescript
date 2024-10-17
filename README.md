@@ -9,4 +9,4 @@
 
 ## 🛠️ Descripción
 
-Este proyecto fue creado como parte del Taller 1 de TypeScript. Aquí se exploran conceptos clave de TypeScript.
+Este proyecto fue creado como solucion del Taller 1 de TypeScript. Aquí se exploran varios conceptos clave de TypeScript.
